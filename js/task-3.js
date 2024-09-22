@@ -1,4 +1,4 @@
-'use strickt';
+'use strict';
 
 function getElementWidth(content, padding, border) {
   function parsePx(value) {
